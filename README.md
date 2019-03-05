@@ -2,4 +2,5 @@ Web App
 
 Garland, vanilla JS.
 
-https://alyonaudod.github.io/Test-Garland/master/index.html
+Working link
+https://alyonaudod.github.io/Test-Garland/index.html
