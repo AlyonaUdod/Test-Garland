@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  background: rgb(238, 238, 238);
+}
+
+#canvas {
+	display: block;
+	margin: auto;
+}
